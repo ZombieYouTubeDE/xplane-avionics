@@ -4,4 +4,4 @@ This is a repository containing the project code for my modern avionics to use o
 # Use
 In short, this porject is supposed to be used as a library to ease the implementation of complex avionics user interfaces. The various DisplayElements can be seen as building blocks to create interactive displays in your custom X-Plane 11 aircraft.
 
-To get a better idea of how to use this, check out the main.cpp file or the [wiki](https://github.com/halexc/xplane-avionics/wiki/Home). Be sure to include all the relevant files. Note that the resource files referenced in 'main.cpp' are not included in this repository, so you need to either manually put them together, or download the compiled project from my [google drive](https://drive.google.com/file/d/1OuqBDfoqqX4u9EepGHsWGPgsK04wjkCJ/view).
+To get a better idea of how to use this, check out the main.cpp file or the [wiki](https://github.com/halexc/xplane-avionics/wiki/Home). Be sure to include all the relevant files. Note that the resource files referenced in 'main.cpp' are not included in this repository, so you need to manually put them together
